@@ -1,3 +1,5 @@
 basicPython
 .gitignore
 .DS_Store
+*.csv
+*X*.ipynb

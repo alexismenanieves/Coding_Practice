@@ -3,7 +3,7 @@
 This project contains a notebook with exercises in python. Some of the lessons I learned were:
 
 - There are many ways to accomplish a goal in Python
-- It is quite useful to write with mathematical notation
+- Writing with mathematical notation is quite useful
 - Type hints are preferable [1]. I'll try to make the needed changes to this
 - Some coding was made with functional programming style. It's not so "pythonic" 
 but I think is useful [2]
